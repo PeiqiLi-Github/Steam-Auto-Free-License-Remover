@@ -2,9 +2,14 @@
 
 # Steam Free License Auto Remover  
 （Steam One-Click Licence Cleaner）    
-[English](#steam-free-license-auto-remover) | [中文](#中文说明)
+[English](#steam-free-license-auto-remover) | [中文](#中文说明)       
 
-_This version is an implementation to add checkboxes to each title so you can check which ones you want to remove_
+_This version is an implementation to add checkboxes to each title so you can check which ones you want to remove_     
+
+提示 / Note    
+如果账号中有大量游戏（数千以上），旧版本通常更快，因为它结构更简单、页面操作更少。    
+If your account contains a large number of games (thousands or more), the older version is usually faster due to its simpler structure and fewer page operations.
+
 
 ---
 
