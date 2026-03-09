@@ -1,5 +1,3 @@
-
-
 # Steam Free License Auto Remover  
 （Steam One-Click Licence Cleaner）    
 [English](#steam-free-license-auto-remover) | [中文](#中文说明)       
@@ -7,8 +5,13 @@
 _This version is an implementation to add checkboxes to each title so you can check which ones you want to remove_     
 Thanks [joex92](https://github.com/joex92) 
 
-如果账号中有大量游戏（数千以上），旧版本通常更快，因为它结构更简单、页面操作更少。    
-If your account contains a large number of games (thousands or more), the older version is usually faster due to its simpler structure and fewer page operations. 
+若账号有数千款以上游戏，推荐下载运行更快的旧版本脚本：OLDSteam Free License Auto Remover.js
+> **文件名称**：`OLDSteam Free License Auto Remover.js`  
+> **直接下载链接**：[OLDSteam Free License Auto Remover.js](https://github.com/PeiqiLi-Github/Steam-Auto-Free-License-Remover/blob/b358c1b98e4700830f1285187973b317218b5fcc/OLDSteam%20Free%20License%20Auto%20Remover.js)   
+
+If your account has thousands of games or more, download the older version script OLDSteam Free License Auto Remover.js for faster operation.
+> **File Name**: {insert\_element\_0\_YE9MRFN0ZWFtIEZyZWUgTGljZW5zZSBBdXRvIFJlbW92ZXIuanNg}  
+> **Direct Download Link**: [OLDSteam Free License Auto Remover.js](https://github.com/PeiqiLi-Github/Steam-Auto-Free-License-Remover/blob/b358c1b98e4700830f1285187973b317218b5fcc/OLDSteam%20Free%20License%20Auto%20Remover.js)
 
 
 ---
